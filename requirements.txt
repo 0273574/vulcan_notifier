@@ -1,0 +1,2 @@
+vulcan==0.3.2
+aiosmtplib==2.0.2

@@ -1,0 +1,10 @@
+{
+    "vulcan_username": "",
+    "vulcan_password": "",
+    "vulcan_symbol": "000767",
+    "smtp_server": "http://mail.rusinkacper.pl/",
+    "smtp_port": 587,
+    "sender_email": "admin@rusinkacper.pl", 
+    "sender_password": "",
+    "recipient_email": "admin@rusinkacper.pl"
+}
