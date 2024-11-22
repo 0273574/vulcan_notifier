@@ -13,3 +13,8 @@ source venv/bin/activate
 #Zainstaluj wymagane biblioteki:
 pip install vulcan aiosmtplib
 ```
+
+Aby skonfigurować aplikacje pod siebie trzeba zedytować plik konfiguracyjny:
+```bash
+nano config.json
+```
